@@ -1,5 +1,5 @@
 #  AI Computer Vision Analytics Platform
- 
+  
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react)       
