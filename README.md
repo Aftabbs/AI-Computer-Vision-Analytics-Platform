@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=for-the-badge&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=for-the-badge&logo=vite) 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-00897b?style=for-the-badge&logo=google)
-![Three.js](https://img.shields.io/badge/Three.js-Latest-000000?style=for-the-badge&logo=three.js)
+![Three.js](https://img.shields.io/badge/Three.js-Latest-000000?style=for-the-badge&logo=three.js) 
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A sophisticated AI-powered computer vision application featuring real-time facial analysis, gesture recognition, and advanced analytics with a stunning glassmorphism UI.**
