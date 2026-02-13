@@ -23,10 +23,6 @@
 
 This cutting-edge web application leverages **MediaPipe** and **TensorFlow.js** to deliver real-time computer vision capabilities directly in your browser. Built with **React 18**, **TypeScript**, and **Three.js**, it offers an immersive experience with a modern glassmorphism UI design.
 
-### Built By Claude Code Agent 🤖
-
-This entire application was developed using **Claude Code** - Anthropic's agentic coding tool. The development showcases the power of AI-assisted development in creating complex, production-ready applications.
-
 ---
 
 ## ✨ Features
