@@ -1,7 +1,7 @@
 #  AI Computer Vision Analytics Platform
   
 <div align="center"> 
-
+ 
 ![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react)       
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=for-the-badge&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=for-the-badge&logo=vite) 
