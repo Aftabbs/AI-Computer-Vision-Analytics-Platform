@@ -386,15 +386,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/aftabbs/AI-Computer-Vision-Analytics-Platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/aftabbs/AI-Computer-Vision-Analytics-Platform/discussions)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aftabbs/AI-Computer-Vision-Analytics-Platform&type=Date)](https://star-history.com/#aftabbs/AI-Computer-Vision-Analytics-Platform&Date)
@@ -433,5 +424,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Multi-language support
 
 ---
-
-**Made possible by Claude Code - The AI coding agent that turns ideas into production-ready applications.** 🚀
